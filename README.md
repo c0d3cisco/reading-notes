@@ -1,9 +1,9 @@
 # Reading-Notes :bulb:
 My reading notes for Code Fellows.
 
-## Personal Intro
+## Personal Intro :exclamation:
 
-My name is **Francisco Sanchez** but I go simply by **Cisco**. I am starting classes as Code Fellows to expand my technical skills and knowledge which I hope will launch my career to new heights. 
+My name is **Francisco Sanchez** but I go simply by **Cisco**. I am starting classes as Code Fellows to expand my technical skills and knowledge which I hope will launch my career to new heights. :bulb: 
 
 Click [HERE](https://github.com/c0d3cisco/) for my GitHub portfolio.
 
@@ -25,5 +25,6 @@ The mindset you have when tackling a challenge in you adventure will determine h
 - [x] Start Code 102
 - [ ] Start Code 201
 
+:exclamation:
 
 [^1]: [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
