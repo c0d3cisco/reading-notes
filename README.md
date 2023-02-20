@@ -21,6 +21,15 @@ The mindset you have when tackling a challenge in you adventure will determine h
 | 2 | Understand a criticism is only words. <br> Whether it is positive or negative criticism, remember they are words. |
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
 
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
 ### Keeping up with To-do's
 - [x] Start Code 102
 - [ ] Start Code 201
