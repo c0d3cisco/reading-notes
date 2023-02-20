@@ -16,7 +16,7 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 ### Keeping up with Tips
 | # | Tip |
-| ----- | ----- |
+| ------ | ------ |
 | 1 | Keep an open mind to the unexpected. <br> Do not let get suck in one of thinking. |
 | 2 | Understand a criticism is only words. <br> Whether it is positive or negative criticism, remember they are words. |
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
