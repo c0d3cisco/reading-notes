@@ -1,4 +1,4 @@
-# Reading-Notes
+# Reading-Notes :bulb:
 My reading notes for Code Fellows.
 
 ## Personal Intro
