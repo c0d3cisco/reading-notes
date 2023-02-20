@@ -5,7 +5,7 @@ My reading notes for Code Fellows.
 
 My name is **Francisco Sanchez** but I go simply by **Cisco**. 
 
-Visit my gethub portfolio at https://github.com/c0d3cisco/
+Click [HERE](https://github.com/c0d3cisco/) for my GitHub portfolio.
 
 ## Growth Mindset
 
