@@ -12,14 +12,22 @@ Click [HERE](https://github.com/c0d3cisco/) for my GitHub portfolio.
 The mindset you have when tackling a challenge in you adventure will determine how you react and learn. A **Growth Mindset** is understanding that keeping a positive attitude and willingness to continue learn, particularly when a resolution seems impossible to achieve, will greatly increase your change of success. [^1]
 
 ## Keeping up with Mindset
+
 > *Note that these tips are three of many that can help you in traveling your journey with a Growth Mindset*  
 
 ### Keeping up with Tips
+
 | # | Tip |
 | ------ | ------ |
 | 1 | Keep an open mind to the unexpected. <br> Do not let get suck in one of thinking. |
 | 2 | Understand a criticism is only words. <br> Whether it is positive or negative criticism, remember they are words. |
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
+
+| # | Tip |
+| ------ | ------ |
+| 1 | Test |
+| 2 | Test |
+| 3 | Test |
 
 | Plugin | README |
 | ------ | ------ |
