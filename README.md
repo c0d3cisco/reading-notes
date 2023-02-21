@@ -31,5 +31,7 @@ The mindset you have when tackling a challenge in you adventure will determine h
 [^1]: [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 ### Daily reading notes
+
 [Day 1 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day1)
+
 [Day 2 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day2)
