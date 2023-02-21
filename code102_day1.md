@@ -1,5 +1,7 @@
 ## Class 102 is full of fun
 
+Use [THIS LINK](c0d3cisco.github.io/reading-notes/) to return to the READ-ME page.
+
 ### What is Markdown?
 
 A lightweight markup language that you can use to add formatting elements to plaintext text documents. [^1]
