@@ -1,6 +1,6 @@
 ## Class 102 is full of fun
 
-Use [THIS LINK](c0d3cisco.github.io/reading-notes/) to return to the READ-ME page.
+Use [THIS LINK](https://c0d3cisco.github.io/reading-notes/) to return to the READ-ME page. 
 
 ### What is Markdown?
 
