@@ -24,8 +24,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
 
 ### Keeping up with To-do's
-> [x]  Start Code 102
-> [ ]  Start Code 201
++ [x]  Start Code 102
++ [ ]  Start Code 201
 
 
 [^1]: [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
