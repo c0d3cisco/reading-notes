@@ -34,4 +34,4 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Day 1 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day1)
 
-[Day 2 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day2)
+[Day 2 reading notes](https://c0d3cisco.github.io/reading-notes/coder-computer)
