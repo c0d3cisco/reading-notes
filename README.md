@@ -45,7 +45,7 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read:05](/code-102/reading-5.md)
 
-[Day 3.2 reading notes](/code-102/reading-6.md)
+[Read:06](/code-102/reading-6.md)
 
 [Day 4.1 reading notes](/code-102/reading-7.md)
 
