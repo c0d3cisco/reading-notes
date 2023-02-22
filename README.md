@@ -4,7 +4,7 @@ My reading notes for Code Fellows.
 
 ## Personal Intro
 
-My name is **Francisco Sanchez** but I go simply by **Cisco**. I am starting classes as Code Fellows to expand my technical skills and knowledge which I hope will launch my career to new heights. :bulb: 
+My name is **Francisco Sanchez** but I go simply by **Cisco**. I am starting classes as Code Fellows to expand my technical skills and knowledge which I hope will launch my career to new heights.
 
 Click [HERE](https://github.com/c0d3cisco/) for my GitHub portfolio.
 
@@ -35,9 +35,9 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 ## Daily reading notes for **Code 102**
 
-[Day 1.1 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day1)
+[Day 1.1 reading notes](/code-102/code102_day1.md)
 
-[Day 1.2 reading notes](https://c0d3cisco.github.io/reading-notes/coder-computer)
+[Day 1.2 reading notes](/code-102/coder-computer.md)
 
 [Day 2.1 reading notes](/code-102/reading-3.md)
 
