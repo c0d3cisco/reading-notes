@@ -1,7 +1,8 @@
-# Reading-Notes 
+# Reading-Notes
+
 My reading notes for Code Fellows.
 
-## Personal Intro 
+## Personal Intro
 
 My name is **Francisco Sanchez** but I go simply by **Cisco**. I am starting classes as Code Fellows to expand my technical skills and knowledge which I hope will launch my career to new heights. :bulb: 
 
@@ -19,19 +20,65 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 | # | Tip |
 | ------ | ------ |
-| 1 | Keep an open mind to the unexpected. <br> Do not let get suck in one of thinking. |
-| 2 | Understand a criticism is only words. <br> Do not over react and learn. |
+| 1 | Keep an open mind to the unexpected. </br> Do not let get suck in one of thinking. |
+| 2 | Understand a criticism is only words. </br> Do not over react and learn. |
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
 
 ### Keeping up with To-do's
-+ [x]  Start Code 102
-+ [ ]  Start Code 201
 
++ [x] Start Code 102
++ [ ] Finish Code 102
++ [ ] Start Code 201
++ [ ] Finish Code 201
 
 [^1]: [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-### Daily reading notes
+## Daily reading notes for **Code 102**
 
-[Day 1 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day1)
+[Day 1.1 reading notes](https://c0d3cisco.github.io/reading-notes/code102_day1)
 
-[Day 2 reading notes](https://c0d3cisco.github.io/reading-notes/coder-computer)
+[Day 1.2 reading notes](https://c0d3cisco.github.io/reading-notes/coder-computer)
+
+[Day 2.1 reading notes](/code-102/reading-3.md)
+
+[Day 2.2 reading notes](/code-102/reading-4.md)
+
+[Day 3.1 reading notes](/code-102/reading-5.md)
+
+[Day 3.2 reading notes](/code-102/reading-6.md)
+
+[Day 4.1 reading notes](/code-102/reading-7.md)
+
+[Day 4.2 reading notes](/code-102/reading-8.md)
+
+## Daily reading notes for **Code 201**
+
+[Day 1.1 reading notes](/code-201/reading-1.md)
+
+[Day 1.2 reading notes](/code-201/reading-2.md)
+
+[Day 2.1 reading notes](/code-201/reading-3.md)
+
+[Day 2.2 reading notes](/code-201/reading-4.md)
+
+[Day 3.1 reading notes](/code-201reading-5.md)
+
+[Day 3.2 reading notes](/code-201/reading-6.md)
+
+[Day 4.1 reading notes](/code-201/reading-7.md)
+
+[Day 4.2 reading notes](/code-201/reading-8.md)
+
+[Day 5.1 reading notes](/code-201/reading-9.md)
+
+[Day 5.2 reading notes](/code-201/reading-10.md)
+
+[Day 6.1 reading notes](/code-201/reading-11.md)
+
+[Day 6.2 reading notes](/code-201/reading-12.md)
+
+[Day 7.1 reading notes](/code-201/reading-13.md)
+
+[Day 7.2 reading notes](/code-201/reading-14.md)
+
+[Day 8.1 reading notes](/code-201/reading-15.md)

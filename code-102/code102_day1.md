@@ -1,12 +1,12 @@
-## Class 102 is full of fun
+# Class 102 is full of fun
 
-Use [THIS LINK](https://c0d3cisco.github.io/reading-notes/) to return to the READ-ME page. 
+Use [THIS LINK](https://c0d3cisco.github.io/reading-notes/) to return to the READ-ME page.
 
-### What is Markdown?
+## What is Markdown?
 
 A lightweight markup language that you can use to add formatting elements to plaintext text documents. [^1]
 
-### Why do we use Markdown?
+## Why do we use Markdown?
 
 - Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation. [^1]
 
@@ -18,29 +18,28 @@ A lightweight markup language that you can use to add formatting elements to pla
 
 - Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it. [^1]
 
-### What symbol will create a heading in Markdown?
+## What symbol will create a heading in Markdown?
 
 '#'
 
-# How many do you need to create the largest heading?
+## How many do you need to create the largest heading?
 
 Only use one '#'
 
-##### How many do you need to create the smallest heading?
+## How many do you need to create the smallest heading?
 
 Use the most '#' in your document to start the header
 
-### When making text bold or italicized for emphasis, it is best practice to use which symbol?
+## When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
 It is best practice to use the '*' rather than the '_'
 
-### How do you create a link with Markdown?
+## How do you create a link with Markdown?
 
 You use brackets to encapsulate the title, and, without a space, put the URL in regular parathensis.
 
-### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+## What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
 '>, +, and -'
 
-
-[^1]: [Markdown Guide - Getting Started] 
+[^1]: [Markdown Guide - Getting Started]
