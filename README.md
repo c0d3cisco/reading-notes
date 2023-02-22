@@ -35,15 +35,15 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 ## Daily reading notes for **Code 102**
 
-[Day 1.1 reading notes](/code-102/code102_day1.md)
+[Read:01](/code-102/code102_day1.md)
 
-[Day 1.2 reading notes](/code-102/coder-computer.md)
+[Read:02](/code-102/coder-computer.md)
 
-[Day 2.1 reading notes](/code-102/reading-3.md)
+[Read:03](/code-102/reading-3.md)
 
-[Day 2.2 reading notes](/code-102/reading-4.md)
+[Read:04](/code-102/reading-4.md)
 
-[Day 3.1 reading notes](/code-102/reading-5.md)
+[Read:05](/code-102/reading-5.md)
 
 [Day 3.2 reading notes](/code-102/reading-6.md)
 
