@@ -1,6 +1,6 @@
 # Lab: 02 - The Coder's Computer
 
-
+see [THIS LINK](https://c0d3cisco.github.io/reading-notes/) to return to the READ-ME page. 
 
 ### What are four important features to look for in a text editor?
 
