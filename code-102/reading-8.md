@@ -13,7 +13,7 @@ Loops in the code would be used to initiate a sort of timer based on user input
 
 ## When does a for loop stop executing?
 
-Whenever the condition of becomes faules.
+Whenever the condition of becomes false.
 
 ## How many times will a while loop execute?
 
