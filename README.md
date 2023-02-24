@@ -47,9 +47,9 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read:06](/code-102/reading-6.md)
 
-[Day 4.1 reading notes](/code-102/reading-7.md)
+[Read:07](/code-102/reading-7.md)
 
-[Day 4.2 reading notes](/code-102/reading-8.md)
+[Read:08](/code-102/reading-8.md)
 
 ## Daily reading notes for **Code 201**
 
