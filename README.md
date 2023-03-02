@@ -1,6 +1,8 @@
 # Reading-Notes
 
-My reading notes for Code Fellows.
+EDITEDITEDIT
+Include a description of what this web site is about
+EDITEDITEDIT
 
 ## Personal Intro
 
@@ -20,65 +22,73 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 | # | Tip |
 | ------ | ------ |
-| 1 | Keep an open mind to the unexpected. <br> Do not let get suck in one of thinking. |
-| 2 | Understand a criticism is only words. <br> Do not over react and learn. |
+| 1 | Keep an open mind to the unexpected. Do not let get suck in one of thinking. |
+| 2 | Understand a criticism is only words. Do not over react and learn. |
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
 
 ### Keeping up with To-do's
 
 + [x] Start Code 102
-+ [ ] Finish Code 102
-+ [ ] Start Code 201
++ [x] Finish Code 102
++ [x] Start Code 201
 + [ ] Finish Code 201
++ [ ] Start Code 301
++ [ ] Finish Code 301
++ [ ] Start Code 401
++ [ ] Finish Code 401
+
+## **Code 102** - Intro to Software Development
+
+[Read: Class 01](/code-102/code102_day1.md)
+
+[Read: Class 02](/code-102/coder-computer.md)
+
+[Read: Class 03](/code-102/reading-3.md)
+
+[Read: Class 04](/code-102/reading-4.md)
+
+[Read: Class 05](/code-102/reading-5.md)
+
+[Read: Class 06](/code-102/reading-6.md)
+
+[Read: Class 07](/code-102/reading-7.md)
+
+[Read: Class 08](/code-102/reading-8.md)
+
+## **Code 201** - Foundations of Software Development
+
+[Read: Class 01](/code-201/reading-1.md)
+
+[Read: Class 02](/code-201/reading-2.md)
+
+[Read: Class 03](/code-201/reading-3.md)
+
+[Read: Class 04](/code-201/reading-4.md)
+
+[Read: Class 05](/code-201reading-5.md)
+
+[Read: Class 06](/code-201/reading-6.md)
+
+[Read: Class 07](/code-201/reading-7.md)
+
+[Read: Class 08](/code-201/reading-8.md)
+
+[Read: Class 09](/code-201/reading-9.md)
+
+[Read: Class 10](/code-201/reading-10.md)
+
+[Read: Class 11](/code-201/reading-11.md)
+
+[Read: Class 12](/code-201/reading-12.md)
+
+[Read: Class 13](/code-201/reading-13.md)
+
+[Read: Class 14](/code-201/reading-14.md)
+
+[Read: Class 15](/code-201/reading-15.md)
+
+## **Code 301** - Intermediate Software Development
+
+## **Code 401** - Advanced Software Development
 
 [^1]: [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
-## Daily reading notes for **Code 102**
-
-[Read:01](/code-102/code102_day1.md)
-
-[Read:02](/code-102/coder-computer.md)
-
-[Read:03](/code-102/reading-3.md)
-
-[Read:04](/code-102/reading-4.md)
-
-[Read:05](/code-102/reading-5.md)
-
-[Read:06](/code-102/reading-6.md)
-
-[Read:07](/code-102/reading-7.md)
-
-[Read:08](/code-102/reading-8.md)
-
-## Daily reading notes for **Code 201**
-
-[Day 1.1 reading notes](/code-201/reading-1.md)
-
-[Day 1.2 reading notes](/code-201/reading-2.md)
-
-[Day 2.1 reading notes](/code-201/reading-3.md)
-
-[Day 2.2 reading notes](/code-201/reading-4.md)
-
-[Day 3.1 reading notes](/code-201reading-5.md)
-
-[Day 3.2 reading notes](/code-201/reading-6.md)
-
-[Day 4.1 reading notes](/code-201/reading-7.md)
-
-[Day 4.2 reading notes](/code-201/reading-8.md)
-
-[Day 5.1 reading notes](/code-201/reading-9.md)
-
-[Day 5.2 reading notes](/code-201/reading-10.md)
-
-[Day 6.1 reading notes](/code-201/reading-11.md)
-
-[Day 6.2 reading notes](/code-201/reading-12.md)
-
-[Day 7.1 reading notes](/code-201/reading-13.md)
-
-[Day 7.2 reading notes](/code-201/reading-14.md)
-
-[Day 8.1 reading notes](/code-201/reading-15.md)
