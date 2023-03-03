@@ -1,8 +1,6 @@
 # Reading-Notes
 
-EDITEDITEDIT
-Include a description of what this web site is about
-EDITEDITEDIT
+The aim of this site is to capture my reading notes from the assigned reading throughout Code Fellow courses.
 
 ## Personal Intro
 
