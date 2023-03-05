@@ -21,21 +21,24 @@ Variables are a form of code that holds data. Variables in JavaScript can be dyn
 
 5. **Compose a short poem describing how HTTP sends data between computers.**
 
->From client to server, data flows
->Through HTTP's network hose
->Requests sent and responses received
+>From client to server, data flows<br>
+>Through HTTP's network hose<br>
+>Requests sent and responses received<br>
 >Information exchanged, connections achieved <br>
->A language of the web, HTTP speaks
->Sending data across digital creeks
->In packets, bits, and bytes it travels
+
+>A language of the web, HTTP speaks<br>
+>Sending data across digital creeks<br>
+>In packets, bits, and bytes it travels<br>
 >As if on wings, it nimbly unravels<br>
->With URLs as its guiding star
->HTTP takes data oh so far
->From one computer to another it goes
+
+>With URLs as its guiding star<br>
+>HTTP takes data oh so far<br>
+>From one computer to another it goes<br>
 >Like a message in a bottle, it flows<br>
->So next time you surf the interweb
->Think of HTTP and its threaded web
->Sending data here and there
+
+>So next time you surf the interweb<br>
+>Think of HTTP and its threaded web<br>
+>Sending data here and there<br>
 >Making the internet a world to share.<br>
 
 *This poem was created by* [**ChatGPT Feb 13 Version**](https://chat.openai.com/chat) *by feeding it the prompt "Compose a short poem describing how HTTP sends data between computers".*
