@@ -20,8 +20,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 | # | Tip |
 | ------ | ------ |
-| 1 | Keep an open mind to the unexpected. <br> Do not let get suck in one of thinking. |
-| 2 | Understand a criticism is only words. <br>  Do not over react and learn. |
+| 1 | Keep an open mind to the unexpected. </br> Do not let get suck in one of thinking. |
+| 2 | Understand a criticism is only words. </br>  Do not over react and learn. |
 | 3 | When the going gets tough, **TAKE SOME DEEP BREATHS** then get back to it. |
 
 ### Keeping up with To-do's
@@ -55,7 +55,7 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 ## **Code 201** - Foundations of Software Development
 
-[Read: Class 01](/code-201/reading-1.md)
+[Read: Class 01](/code-201/class-01.md)
 
 [Read: Class 02](/code-201/reading-2.md)
 
