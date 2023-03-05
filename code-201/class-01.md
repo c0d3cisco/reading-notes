@@ -1,4 +1,4 @@
-# Class 01 Fundimentals of a Website
+# Class 01 Fundamentals of a Website
 
 It is crucial to understand the fundamentals of what you are working on. It is important get comfortable with the topics in the readings as these will lay the base for everything we learn in this course.
 
@@ -7,17 +7,17 @@ It is crucial to understand the fundamentals of what you are working on. It is i
 ## Getting Started
 
 1. **Describe how HTML, CSS, and JS files are “parsed” in the browser.** <br>
-HTML is read first. It will start from top and go line by line. As it encounters external links and references, the browser will fetch those additional files. The browswer will, unless told otherwise, will save the the CSS construct, and JavaScript will compile and execute.
+HTML is read first. It will start from top and go line by line. As it encounters external links and references, the browser will fetch those additional files. The browser will, unless told otherwise, will save the the CSS construct, and JavaScript will compile and execute.
 
 2. **How can you find images to add to a Website?**<br>
-When looking for images to add to your website, make sure you are not infrenging upon any copyrights. Use the *Creative Common license* in google to reduce your chance of any violoation. Still, it is your responsibility to make sure your not violating any laws.
+When looking for images to add to your website, make sure you are not infringing upon any copyrights. Use the *Creative Common license* in google to reduce your chance of any violation. Still, it is your responsibility to make sure your not violating any laws.
 
 3. **How do you create a String vs a Number in JavaScript?**<br>
-String can be made by encolsing text in single or double quotations.<br>
+String can be made by enclosing text in single or double quotations.<br>
 Numbers are kept as a number data type when they're not encapsulated by quotations.
 
 4. **What is a Variable and why are they important in JavaScript?**<br>
-Variables are a form of code that holds data. Variables in JavaScript can be dynamic and created by `let`, or constant and unchangable by making the variable with `const`.
+Variables are a form of code that holds data. Variables in JavaScript can be dynamic and created by `let`, or constant and unchangeable by making the variable with `const`.
 
 5. **Compose a short poem describing how HTTP sends data between computers.**
 
@@ -36,7 +36,7 @@ Variables are a form of code that holds data. Variables in JavaScript can be dyn
 >From one computer to another it goes<br>
 >Like a message in a bottle, it flows<br>
 
->So next time you surf the interweb<br>
+>So next time you surf the web<br>
 >Think of HTTP and its threaded web<br>
 >Sending data here and there<br>
 >Making the internet a world to share.<br>
@@ -45,7 +45,7 @@ Variables are a form of code that holds data. Variables in JavaScript can be dyn
 
 I do not have verbal creativity and spent more time than necessary trying to make the just two lines of poem. So to answer the question in my own, non-poetic words:
 
-When you load a website in your browser, your browser requests the website code from the servers. The servers parces portions of the HTML and sends it to your browser to read. As your broweser reads it and requires additional information, additional requests are sent and information is receieved. Your browswer continues to download these chuncks of data until the full website is generated.
+When you load a website in your browser, your browser requests the website code from the servers. The servers parses portions of the HTML and sends it to your browser to read. As your browser reads it and requires additional information, additional requests are sent and information is received. Your browser continues to download these chunks of data until the full website is generated.
 
 ### Metadata in HTML
 
@@ -104,4 +104,3 @@ You can add JavaScript to your HTML documents by three means:
 ## Things I want to know more about
 
 * How can you reach a websites directly via their IP addresses?
-
