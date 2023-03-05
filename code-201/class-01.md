@@ -33,7 +33,7 @@ Variables are a form of code that holds data. Variables in JavaScript can be dyn
 >HTTP takes data oh so far
 >From one computer to another it goes
 >Like a message in a bottle, it flows<br>
->So next time you surf the web
+>So next time you surf the interweb
 >Think of HTTP and its threaded web
 >Sending data here and there
 >Making the internet a world to share.<br>
