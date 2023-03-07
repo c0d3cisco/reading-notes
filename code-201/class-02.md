@@ -60,15 +60,13 @@ An if statement checks a **condition** and if it evaluates to **true**, then the
 I provides another conditional statement with in a parent `if` statement for if the first conditional was not true.
 
 3. List 3 different types of comparison operators.<br>
-    * `===` and `!==` — test if one value is identical to, or not identical to, another.
-    * `<` and `>` — test if one value is less than or greater than another.
-    * `<=` and `>=` — test if one value is less than or equal to, or greater than or equal to, another.
-***The answer was copied from [Conditional]***
+    * `===` and `!==` — test if one value is identical to, or not identical to, another.[^1]
+    * `<` and `>` — test if one value is less than or greater than another.[^1]
+    * `<=` and `>=` — test if one value is less than or equal to, or greater than or equal to, another. [^1]
 
 4. What is the difference between the logical operator `&&` and `||`?<br>
-`&&` stands for AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to `true` for the whole expression to return `true`.<br>
-`||` stands for OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to `true` for the whole expression to return `true`.<br>
-***The answer was copied from [Conditional]***
+`&&` stands for AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to `true` for the whole expression to return `true`.[^1]<br>
+`||` stands for OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to `true` for the whole expression to return `true`.[^1]<br>
 
 ## Things I want to know more about
 
@@ -76,4 +74,4 @@ I provides another conditional statement with in a parent `if` statement for if 
 
 ### References
 
-[Conditional]: [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+[^1]: [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
