@@ -65,7 +65,7 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read: Class 05](/code-201/class-05.md)
 
-[Read: Class 06](/code-201/class-6.md)
+[Read: Class 06](/code-201/class-06.md)
 
 [Read: Class 07](/code-201/reading-7.md)
 

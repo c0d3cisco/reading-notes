@@ -11,14 +11,14 @@ They both are a container for other variables, and they both can house each othe
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.<br>
 If you need to access the property by a variable, lets say an input from a user, then you might need to access the property using the bracket notification because it uses a string.
 5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?<br>
-> `const dog = {`
->  `name: 'Spot',`
->  `age: 2,`
->  `color: 'white with black spots',`
->  `humanAge: function (){`
->    `console.log('${this.name} is ${this.age*7} in human years');`
->  `}`
->`}`
+> `const dog = {`<br>
+>  `name: 'Spot',`<br>
+>  `age: 2,`<br>
+>  `color: 'white with black spots',`<br>
+>  `humanAge: function (){`<br>
+>    `console.log('${this.name} is ${this.age*7} in human years');`<br>
+>  `}`<br>
+>`}`<br>
 `this` is a call to properties that are part of `this` object and can be used within other properties or methods.
 
 ## Introduction To The DOM
