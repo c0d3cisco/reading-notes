@@ -22,7 +22,9 @@ Constructors are functions that can be used to initiate objects, otherwise, obje
 ## Object Prototypes Using A Constructor
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.<br>
+
 > * NOTE: This is a very common front end developer interview question<br>
+
 I work with a software that helps surgeons plan shoulder replacement surgery. Here they can load a patient's data into one surgical case file where they make the modifications needed. So the patient's specific case would be the object and the parameters that make the surgery unique are the properties. Depending if the surgery will be a reverse total vs a total shoulder, the surgeons can load pre determined preferences associated with their selection, this would be inheritance of the case files.
 
 ## Things I want to know more about
