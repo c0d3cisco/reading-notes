@@ -28,3 +28,4 @@ DOM drives the dynamic expression of the HTML. This is a built in API allows us 
 2. Briefly describe the relationship between the DOM and JavaScript.<br>
 DOM is the set of functions that are pert of JavaScript that allow for the control/printing of HTML elements using JavaScript.
 
+## Things I want to know more about
