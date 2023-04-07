@@ -29,8 +29,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 + [x] Start Code 102
 + [x] Finish Code 102
 + [x] Start Code 201
-+ [ ] Finish Code 201
-+ [ ] Start Code 301
++ [x] Finish Code 201
++ [x] Start Code 301
 + [ ] Finish Code 301
 + [ ] Start Code 401
 + [ ] Finish Code 401
@@ -86,6 +86,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 [Read: Class 15](/code-201/reading-15.md)
 
 ## **Code 301** - Intermediate Software Development
+
+[Read 01: Introduction to React and Components](/code-301/class-01.md)
 
 ## **Code 401** - Advanced Software Development
 
