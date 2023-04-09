@@ -1,5 +1,9 @@
 # Introduction to React and Components
 
+## Why this topic matters
+
+This topic matters because it is laying the foundling of our understanding into React. Components and props are an integral component of React.
+
 ## Component-Based Architecture
 
 1. What is a “component”?<br>
@@ -23,7 +27,6 @@ Reliability − The overall system reliability increases since the reliability o
 System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.[^1]<br><br>
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.[^1]<br><br>
 
-
 ## What is Props and How to Use it in React
 
 1. What is “props” short for?<br>
@@ -33,4 +36,8 @@ Props are used to pass data from parent to child components.<br>
 3. What is the flow of props?<br>
 The flow is from parent to child component. Props are read-only onces passed into a child component.<br><br>
 
+## References
+
 [^1]: [https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm]
+
+## Things I want to know more about
