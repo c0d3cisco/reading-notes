@@ -89,6 +89,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 01: Introduction to React and Components](/code-301/class-01.md)
 
+[Read 02: State and Props](/code-301/class-02.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
