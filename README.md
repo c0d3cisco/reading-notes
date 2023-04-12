@@ -91,6 +91,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 02: State and Props](/code-301/class-02.md)
 
+[Read 03: Passing Functions as Props](/code-301/class-03.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
