@@ -93,6 +93,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 03: Passing Functions as Props](/code-301/class-03.md)
 
+[Read 04: React and Forms](/code-301/class-04.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
