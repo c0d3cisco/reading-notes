@@ -1,4 +1,4 @@
-# React and Forms
+# Putting it all together
 
 ## Why this topic matters
 

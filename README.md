@@ -95,6 +95,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 04: React and Forms](/code-301/class-04.md)
 
+[Read 05: Putting it all together](/code-301/class-05.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
