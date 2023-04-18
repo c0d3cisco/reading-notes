@@ -17,7 +17,7 @@ v19.6.1
 6. What version of npm are you running on your machine?<br>
 9.4.0
 7. What command would you type to install a library/package called ‘jshint’?<br>
-`npm install <jshint>`
+`npm install -g jshint`
 8. What is node used for?<br>
 It is used to compile code that can run on a local computer, and my assumption from  my limited understanding is that it will be able to handle data from the browser, process it, then send it back.
 
