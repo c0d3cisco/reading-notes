@@ -101,6 +101,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 07: Putting it all together](/code-301/class-07.md)
 
+[Read 08: APIs](/code-301/class-08.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
