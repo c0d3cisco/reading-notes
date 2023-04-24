@@ -15,7 +15,7 @@ You should name them with logical names, they are used to group data sets as wel
 6. Give an example of a good URI.<br>
 `https://getpokemon.com/pokemons/original151/25`
 7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?<br>
-A 'chatty' web API is a bad thing because it means a lot of small data packages are sent to the client. It is best to group data before sending. 
+A 'chatty' web API is a bad thing because it means a lot of small data packages are sent to the client. It is best to group data before sending.
 8. What status code does a successful `GET` request return?<br>
 200
 9. What status code does an unsuccessful `GET` request return?<br>

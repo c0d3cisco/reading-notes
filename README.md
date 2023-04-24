@@ -103,6 +103,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 08: APIs](/code-301/class-08.md)
 
+[Read 11: MongoDB and Mongoose](/code-301/class-11.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
