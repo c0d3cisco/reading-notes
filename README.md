@@ -105,6 +105,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 11: MongoDB and Mongoose](/code-301/class-11.md)
 
+[Read 12: CRUD](/code-301/class-12.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
