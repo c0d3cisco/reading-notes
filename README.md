@@ -107,6 +107,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 12: CRUD](/code-301/class-12.md)
 
+[Read 13: More CRUD](/code-301/class-13.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
