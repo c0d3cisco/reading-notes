@@ -109,6 +109,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 13: More CRUD](/code-301/class-13.md)
 
+[Read 14: Diversity & Inclusion in the Tech Industry](/code-301/class-14.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
