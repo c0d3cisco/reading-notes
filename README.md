@@ -111,6 +111,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 14: Diversity & Inclusion in the Tech Industry](/code-301/class-14.md)
 
+[Read 15: Diversity & Inclusion in the Tech Industry](/code-301/class-15.md)
+
 ## **Code 401** - Advanced Software Development
 
 ### Resources
