@@ -31,8 +31,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 + [x] Start Code 201
 + [x] Finish Code 201
 + [x] Start Code 301
-+ [ ] Finish Code 301
-+ [ ] Start Code 401
++ [x] Finish Code 301
++ [x] Start Code 401
 + [ ] Finish Code 401
 
 ## **Code 102** - Intro to Software Development
