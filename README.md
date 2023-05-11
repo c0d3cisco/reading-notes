@@ -115,7 +115,7 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 ## **Code 401** - Advanced Software Development
 
-[Intro into SQL Database Manipulation](/code-401/introSQL.md)
+1. [Intro into SQL Database Manipulation](/code-401/introSQL.md)
 
 ### Resources
 
