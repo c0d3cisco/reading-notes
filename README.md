@@ -115,8 +115,10 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 ## **Code 401** - Advanced Software Development
 
-1. [Intro into SQL Database Manipulation](/code-401/introSQL.md)
+[Intro into SQL Database Manipulation](/code-401/introSQL.md)
+
+[Practice in the Terminal](/code-401/practiceTerminal.md)
 
 ### Resources
 
-[^1]: [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[^1]: [Growth Mindset Test](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
