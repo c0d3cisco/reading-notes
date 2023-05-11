@@ -119,6 +119,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Practice in the Terminal](/code-401/practiceTerminal.md)
 
+[Growth Mindset](/code-401/growth_mindset.md)
+
 ### Resources
 
 [^1]: [Growth Mindset Test](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
