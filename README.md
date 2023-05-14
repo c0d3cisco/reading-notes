@@ -121,6 +121,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Growth Mindset](/code-401/growth_mindset.md)
 
+[Data Structures and Algorithms](/code-401/dataStructure.md)
+
 [Read 1: Node Ecosystem](/code-401/class-01.md)
 
 ### Resources
