@@ -123,6 +123,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Data Structures and Algorithms](/code-401/dataStructure.md)
 
+[Engineer Reading](/code-401/engineeringReading.md)
+
 [Read 1: Node Ecosystem](/code-401/class-01.md)
 
 ### Resources
