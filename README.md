@@ -127,6 +127,8 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 1: Node Ecosystem](/code-401/class-01.md)
 
+[Read 2: Express, NPM, TDD, CI/CD](/code-401/class-02.md)
+
 ### Resources
 
 [^1]: [Growth Mindset Test](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
