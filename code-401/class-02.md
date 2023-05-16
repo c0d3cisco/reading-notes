@@ -29,12 +29,12 @@ Improved design qualities.
 3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.<br>
 Individual
 
-> Forgetting to run tests frequently
+> Forgetting to run tests frequently<br>
 > Writing too many tests at once
 
 Team
 
-> Poor maintenance of the test suite
+> Poor maintenance of the test suite<br>
 > Abandoned test suite
 
 ## CI/CD
