@@ -131,6 +131,12 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 3: Express REST API](/code-401/class-03.md)
 
+[Read 4: Data Modeling](/code-401/class-04.md)
+
+[Read 7: JWT](/code-401/class-07.md)
+
+[Read 8: Access Control (ACL)](/code-401/class-08.md)
+
 ### Resources
 
 [^1]: [Growth Mindset Test](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
