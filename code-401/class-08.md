@@ -36,5 +36,5 @@ After they authenticate themselves.
 
 ## Reflection
 
-1. What are your learning goals after reading and reviewing the [class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-08/)?
+1. What are your learning goals after reading and reviewing the [class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-08/)?\
 My goal is to understand how roles are assignment permissions.

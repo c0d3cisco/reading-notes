@@ -137,6 +137,10 @@ The mindset you have when tackling a challenge in you adventure will determine h
 
 [Read 8: Access Control (ACL)](/code-401/class-08.md)
 
+[Read 10: Stacks and Queues](/code-401/class-10.md)
+
+[Read 11: Event Driven Applications](/code-401/class-11.md)
+
 ### Resources
 
 [^1]: [Growth Mindset Test](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
