@@ -11,7 +11,7 @@ This would be great for setting up mechanisms that result in actions when a user
 
 ## Additional Questions
 
-1. Looking ahead at this module’s course schedule, What do you look forward to learning?
+1. Looking ahead at this module’s course schedule, What do you look forward to learning?\
 I look forward learning about the different types of events and how to use them. This is a very important concept for applications in general.
-2. What are your learning goals after reading and reviewing the class README?
+2. What are your learning goals after reading and reviewing the class README?\
 I want to learn this concept well enough to apply it comfortably to my applications.
